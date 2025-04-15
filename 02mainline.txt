@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+	printf("1-4π› æ∆¿ÃµÈ¿∫ ∂ ∂ «œ¥Ÿ §æ§æ§æ \n ");
+	return 0;
+}
